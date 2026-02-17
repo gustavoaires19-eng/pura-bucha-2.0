@@ -1,0 +1,8 @@
+{
+  "name": "pura bucha 123",
+  "description": "Uma plataforma avançada para monitoramento de operações de dragagem, permitindo o registro de pontos georreferenciados, análise de volume, profundidade e insights gerados por IA.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
